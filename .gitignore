@@ -1,0 +1,12 @@
+.vscode/*
+data/*
+results/
+BackupDataFirstUsed/*  
+src/
+auxfunc.pyc
+classesAnimalsRoads.pyc
+featuresCBBlock.pyc
+featuresNBlock.pyc
+featuresSegCB.pyc
+model.pkl
+scaler.pkl
